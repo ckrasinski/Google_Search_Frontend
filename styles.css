@@ -1,0 +1,68 @@
+#Content
+{
+    margin: auto;
+    text-align: center;
+    padding: 30px;
+}
+
+#Logo
+{
+    font-size: 150px;
+    color: gold;
+    clear: both;
+}
+
+input
+{
+    margin: 10px;
+}
+
+.search
+{
+    padding: 30px;
+}
+
+input, button
+{
+    border-radius: 40px;
+}
+
+.submit
+{
+    cursor: pointer;
+    padding: 30px;
+}
+
+#Nav
+{
+    float: right;
+}
+
+.nav_button
+{
+    width: 150px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+a
+{
+    text-decoration: none;
+    color: black;
+}
+
+.advanced
+{
+    height: 30px;
+    margin: 3px;
+    padding: 2px;
+}
+
+.adv_submit
+{
+    background-color: blue;
+    color: white;
+    height: 70px;
+    padding: 20px;
+    cursor: pointer;
+}
